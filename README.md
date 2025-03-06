@@ -1,4 +1,1 @@
-"# itecc6-Labao-Sancho-M." 
-"# itecc6-Labao-Sancho-M." 
-"# itecc6-Labao-Sancho-M." 
-"# itecc6-labao-sanchoM." 
+"# ITECC6 Application Development & Emerging Technologies" 
